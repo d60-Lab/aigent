@@ -1,0 +1,24 @@
+{
+  "scenes": [
+    {
+      "description": "A serene Japanese garden in spring, with cherry blossoms gently falling into a koi pond, soft morning light filtering through bamboo",
+      "audio_text": "In the heart of tranquility, nature whispers its ancient wisdom.",
+      "motion": "slow pan from the cherry tree to the pond, following falling petals"
+    },
+    {
+      "description": "A traditional wooden bridge over the pond, with orange and white koi fish swimming beneath, reflections dancing on the water surface",
+      "audio_text": "Each ripple tells a story, each moment a fleeting masterpiece.",
+      "motion": "gentle zoom in on the koi fish, following their graceful movement"
+    },
+    {
+      "description": "A stone lantern surrounded by moss and ferns, with a gentle mist rolling through the garden at dawn",
+      "audio_text": "Time stands still in this sacred space, where past and present meet.",
+      "motion": "slow circular movement around the lantern"
+    },
+    {
+      "description": "Wide shot of the entire garden from an elevated angle, showing the harmony of elements - water, stone, plants, and architecture",
+      "audio_text": "And in this balance, we find peace.",
+      "motion": "slow ascending crane shot revealing the full garden layout"
+    }
+  ]
+}
